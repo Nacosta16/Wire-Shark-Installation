@@ -13,7 +13,8 @@ Wire shark is a software used for packet sniffing and should be used for ethical
 <p>
 <img src="https://sigmawire.net/i/03/Xsu8d2.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
 </p>  
-
-- You should then be able to boot it up from 
-
+    -   You should then be able to boot it up from the desktop or typing it in the start menu
+<p>
+<img src="https://sigmawire.net/i/03/NaldHA.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>
+</p>  
      
